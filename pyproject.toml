@@ -1,0 +1,7 @@
+[project]
+name = "algo-preparing"
+version = "0.1.0"
+description = "Preparing to yandex algos."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
