@@ -21,7 +21,9 @@ class Solution:
             
             
 if __name__ == "__main__":
-    s = "abcabba"
     sol = Solution()
-    count = sol.lengthOfLongestSubstring(s)
-    print(count)
+    assert sol.lengthOfLongestSubstring("abcabba") == 3
+    assert sol.lengthOfLongestSubstring("") == 0
+    assert sol.lengthOfLongestSubstring("a") == 1
+    assert sol.lengthOfLongestSubstring("aaa") == 1
+    assert sol.lengthOfLongestSubstring("abcdef") == 6
