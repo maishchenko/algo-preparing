@@ -49,7 +49,7 @@
 | Add Strings | Easy | + |
 | First Unique Character in a String | Easy |  |
 | Valid Palindrome | Easy | + |
-| Summary Ranges | Easy |  |
+| Summary Ranges | Easy | + |
 | Unique Email Addresses | Easy |  |
 | Shortest Completing Word | Easy |  |
 | Find the Index of the First Occurrence in a String | Easy |  |
@@ -62,15 +62,15 @@
 
 ## Хэш-таблица (7)
 
-| Задача | Уровень |
-|--------|---------|
-| Two Sum | Easy |
-| Intersection of Two Arrays II | Easy |
-| Find Resultant Array After Removing Anagrams | Easy |
-| Number of Arithmetic Triplets | Easy |
-| Group Anagrams | Medium |
-| Line Reflection | Medium |
-| Insert Delete GetRandom O(1) | Medium |
+| Задача | Уровень | Решено |
+|--------|---------|--------|
+| Two Sum | Easy |  |
+| Intersection of Two Arrays II | Easy |  |
+| Find Resultant Array After Removing Anagrams | Easy | + |
+| Number of Arithmetic Triplets | Easy |  |
+| Group Anagrams | Medium |  |
+| Line Reflection | Medium |  |
+| Insert Delete GetRandom O(1) | Medium |  |
 
 ---
 
