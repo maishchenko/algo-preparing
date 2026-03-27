@@ -29,10 +29,10 @@
 | Two Sum II – Input Array Is Sorted | Medium | + |
 | Move Zeroes | Easy | + |
 | Squares of a Sorted Array | Easy | + |
-| Is Subsequence | Easy |  |
-| Merge Sorted Array | Easy |  |
-| Interval List Intersections | Medium |  |
-| Maximize Distance to Closest Person | Medium |  |
+| Is Subsequence | Easy | + |
+| Merge Sorted Array | Easy | + |
+| Interval List Intersections | Medium | + |
+| Maximize Distance to Closest Person | Medium | + |
 | Container With Most Water | Medium |  |
 | 4Sum | Medium |  |
 | Trapping Rain Water | Hard |  |
