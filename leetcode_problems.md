@@ -8,14 +8,14 @@
 
 | Задача | Уровень | Решено  |
 |--------|---------|---------|
-| Longest Substring Without Repeating Characters | Medium | |
-| Longest Substring with At Most Two Distinct Characters | Medium | |
-| Max Consecutive Ones II | Medium | |
-| Max Consecutive Ones III | Medium | |
-| Permutation in String | Medium | |
-| Find All Anagrams in a String | Medium | |
-| Subarray Sum Equals K | Medium | |
-| Subarray Sums Divisible by K | Medium | |
+| Longest Substring Without Repeating Characters | Medium | + |
+| Longest Substring with At Most Two Distinct Characters | Medium | + |
+| Max Consecutive Ones II | Medium | + |
+| Max Consecutive Ones III | Medium | + |
+| Permutation in String | Medium | + |
+| Find All Anagrams in a String | Medium | + |
+| Subarray Sum Equals K | Medium | Prefix Sum |
+| Subarray Sums Divisible by K | Medium | Prefix Sum |
 | Continuous Subarray Sum | Medium | |
 | Longest Subarray of 1's After Deleting One Element | Medium | |
 | Take K of Each Character From Left and Right | Medium | |
