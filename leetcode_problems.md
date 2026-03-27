@@ -41,22 +41,22 @@
 
 ## Строки (14)
 
-| Задача | Уровень |
-|--------|---------|
-| Jewels and Stones | Easy |
-| Consecutive Characters | Easy |
-| Reverse Words in a String III | Easy |
-| Add Strings | Easy |
-| First Unique Character in a String | Easy |
-| Valid Palindrome | Easy |
-| Summary Ranges | Easy |
-| Unique Email Addresses | Easy |
-| Shortest Completing Word | Easy |
-| Find the Index of the First Occurrence in a String | Easy |
-| Longest Nice Substring | Easy |
-| String Compression | Medium |
-| One Edit Distance | Medium |
-| Simplify Path | Medium |
+| Задача | Уровень | Решено |
+|--------|---------|--------|
+| Jewels and Stones | Easy | + |
+| Consecutive Characters | Easy | + |
+| Reverse Words in a String III | Easy | + |
+| Add Strings | Easy | + |
+| First Unique Character in a String | Easy |  |
+| Valid Palindrome | Easy | + |
+| Summary Ranges | Easy |  |
+| Unique Email Addresses | Easy |  |
+| Shortest Completing Word | Easy |  |
+| Find the Index of the First Occurrence in a String | Easy |  |
+| Longest Nice Substring | Easy |  |
+| String Compression | Medium |  |
+| One Edit Distance | Medium |  |
+| Simplify Path | Medium |  |
 
 ---
 
