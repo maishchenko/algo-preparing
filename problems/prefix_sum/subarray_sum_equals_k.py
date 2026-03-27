@@ -12,6 +12,21 @@
 # Input: nums = [1,2,3], k = 3
 # Output: 2
 
+from collections import defaultdict
+
 class Solution:
     def subarraySum(self, nums: list[int], k: int) -> int:
-        ...
+        prefix_sum = defaultdict(int)
+        prefix_sum[0] = 1
+        prefix, total_counts = 0, 0
+        for num in nums:
+            prefix += num
+            total_counts += prefix_sum[prefix - k]
+            prefix_sum[prefix] += 1
+        return total_counts
+
+
+if __name__ == "__main__":
+    sol = Solution()
+    assert sol.subarraySum(nums=[1,1,1], k=2) == 2
+    assert sol.subarraySum(nums=[1,2,3], k=3) == 2

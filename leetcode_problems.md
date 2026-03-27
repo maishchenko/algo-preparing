@@ -16,7 +16,7 @@
 | Find All Anagrams in a String | Medium | + |
 | Subarray Sum Equals K | Medium | Prefix Sum |
 | Subarray Sums Divisible by K | Medium | Prefix Sum |
-| Continuous Subarray Sum | Medium | |
+| Continuous Subarray Sum | Medium |  Prefix Sum |
 | Longest Subarray of 1's After Deleting One Element | Medium | |
 | Take K of Each Character From Left and Right | Medium | |
 

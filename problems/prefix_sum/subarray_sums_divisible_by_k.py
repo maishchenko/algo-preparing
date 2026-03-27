@@ -13,6 +13,22 @@
 # Input: nums = [5], k = 9
 # Output: 0
 
+from collections import defaultdict
+
 class Solution:
     def subarraysDivByK(self, nums: list[int], k: int) -> int:
-        ...
+        p_dict = defaultdict(int)
+        p_dict[0] += 1
+        count, prefix = 0, 0
+        for num in nums:
+            prefix += num
+            remainder = prefix % k
+            count += p_dict[remainder]
+            p_dict[remainder] += 1
+        return count
+            
+
+if __name__ == "__main__":
+    sol = Solution()
+    assert sol.subarraysDivByK(nums=[4,5,0,-2,-3,1], k=5) == 7
+    assert sol.subarraysDivByK(nums=[5], k=9) == 0
