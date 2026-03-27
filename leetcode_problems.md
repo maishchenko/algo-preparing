@@ -6,7 +6,7 @@
 
 ## Скользящее окно (11)
 
-| Задача | Уровень | Решено  |
+| Задача | Уровень | Решено |
 |--------|---------|---------|
 | Longest Substring Without Repeating Characters | Medium | + |
 | Longest Substring with At Most Two Distinct Characters | Medium | + |
@@ -14,8 +14,8 @@
 | Max Consecutive Ones III | Medium | + |
 | Permutation in String | Medium | + |
 | Find All Anagrams in a String | Medium | + |
-| Subarray Sum Equals K | Medium | Prefix Sum |
-| Subarray Sums Divisible by K | Medium | Prefix Sum |
+| Subarray Sum Equals K | Medium | + Prefix Sum |
+| Subarray Sums Divisible by K | Medium | + Prefix Sum |
 | Continuous Subarray Sum | Medium |  Prefix Sum |
 | Longest Subarray of 1's After Deleting One Element | Medium | |
 | Take K of Each Character From Left and Right | Medium | |
@@ -24,18 +24,18 @@
 
 ## Два указателя (10)
 
-| Задача | Уровень |
-|--------|---------|
-| Two Sum II – Input Array Is Sorted | Medium |
-| Move Zeroes | Easy |
-| Squares of a Sorted Array | Easy |
-| Is Subsequence | Easy |
-| Merge Sorted Array | Easy |
-| Interval List Intersections | Medium |
-| Maximize Distance to Closest Person | Medium |
-| Container With Most Water | Medium |
-| 4Sum | Medium |
-| Trapping Rain Water | Hard |
+| Задача | Уровень | Решено |
+|--------|---------|--------|
+| Two Sum II – Input Array Is Sorted | Medium | + |
+| Move Zeroes | Easy | + |
+| Squares of a Sorted Array | Easy | + |
+| Is Subsequence | Easy |  |
+| Merge Sorted Array | Easy |  |
+| Interval List Intersections | Medium |  |
+| Maximize Distance to Closest Person | Medium |  |
+| Container With Most Water | Medium |  |
+| 4Sum | Medium |  |
+| Trapping Rain Water | Hard |  |
 
 ---
 
