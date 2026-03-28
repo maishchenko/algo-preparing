@@ -65,11 +65,11 @@
 | Задача | Уровень | Решено |
 |--------|---------|--------|
 | Two Sum | Easy |  |
-| Intersection of Two Arrays II | Easy |  |
+| Intersection of Two Arrays II | Easy | + |
 | Find Resultant Array After Removing Anagrams | Easy | + |
-| Number of Arithmetic Triplets | Easy |  |
+| Number of Arithmetic Triplets | Easy | + |
 | Group Anagrams | Medium |  |
-| Line Reflection | Medium |  |
+| Line Reflection | Medium | + |
 | Insert Delete GetRandom O(1) | Medium |  |
 
 ---
