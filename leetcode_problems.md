@@ -119,15 +119,15 @@
 
 ## Бинарный поиск (7)
 
-| Задача | Уровень |
-|--------|---------|
-| Find Target Indices After Sorting Array | Easy |
-| Find Minimum in Rotated Sorted Array | Medium |
-| Search in Rotated Sorted Array | Medium |
-| Find First and Last Position of Element in Sorted Array | Medium |
-| Find Peak Element | Medium |
-| Find K Closest Elements | Medium |
-| Median of Two Sorted Arrays | Hard |
+| Задача | Уровень | Решено  |
+|--------|---------|---------|
+| Find Target Indices After Sorting Array | Easy | + |
+| Find Minimum in Rotated Sorted Array | Medium | + |
+| Search in Rotated Sorted Array | Medium | + |
+| Find First and Last Position of Element in Sorted Array | Medium |  |
+| Find Peak Element | Medium |  |
+| Find K Closest Elements | Medium |  |
+| Median of Two Sorted Arrays | Hard |  |
 
 ---
 
